@@ -3,10 +3,6 @@
     Author     : Амалия Волощук
 */
 
-#menu a:hover{
- color:#92A9BF;
- background:blue;
-}
-h5, p{
- display:inline;
-}
+h6{
+
+     display:list-item;
