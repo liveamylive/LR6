@@ -55,3 +55,11 @@ display:block;
 color:pink;
 text-decoration:underline;
 }
+#news{
+background:yellow;
+width:150px;
+height:280px;
+position:absolute;
+left:365px;
+top:10px;
+}
